@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `support.vw_tickets` AS SELECT * FROM support.tickets

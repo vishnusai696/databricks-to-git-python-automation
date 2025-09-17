@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `analytics.vw_conversion_rates` AS SELECT * FROM analytics.conversion_rates

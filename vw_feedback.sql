@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `support.vw_feedback` AS SELECT * FROM support.feedback

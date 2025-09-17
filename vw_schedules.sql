@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `operations.vw_schedules` AS SELECT * FROM operations.schedules

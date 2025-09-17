@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `sales.vw_customers` AS SELECT * FROM sales.customers

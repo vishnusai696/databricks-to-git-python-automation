@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `analytics.vw_session_data` AS SELECT * FROM analytics.session_data

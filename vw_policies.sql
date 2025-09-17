@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `compliance.vw_policies` AS SELECT * FROM compliance.policies

@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `support.vw_sla_tracking` AS SELECT * FROM support.sla_tracking

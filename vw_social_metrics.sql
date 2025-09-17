@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `marketing.vw_social_metrics` AS SELECT * FROM marketing.social_metrics

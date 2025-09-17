@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `marketing.vw_ad_spend` AS SELECT * FROM marketing.ad_spend

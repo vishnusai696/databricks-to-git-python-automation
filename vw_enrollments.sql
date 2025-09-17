@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `training.vw_enrollments` AS SELECT * FROM training.enrollments

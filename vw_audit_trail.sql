@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `compliance.vw_audit_trail` AS SELECT * FROM compliance.audit_trail

@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `operations.vw_tasks` AS SELECT * FROM operations.tasks

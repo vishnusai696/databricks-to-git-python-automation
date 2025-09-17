@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `operations.vw_incident_reports` AS SELECT * FROM operations.incident_reports

@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `training.vw_progress_tracking` AS SELECT * FROM training.progress_tracking

@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `operations.vw_workflow` AS SELECT * FROM operations.workflow

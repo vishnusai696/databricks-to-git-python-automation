@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `inventory.vw_suppliers` AS SELECT * FROM inventory.suppliers

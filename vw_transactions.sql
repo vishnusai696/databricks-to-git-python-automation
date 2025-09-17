@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `finance.vw_transactions` AS SELECT * FROM finance.transactions

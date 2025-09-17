@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `analytics.vw_event_logs` AS SELECT * FROM analytics.event_logs

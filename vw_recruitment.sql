@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `hr.vw_recruitment` AS SELECT * FROM hr.recruitment

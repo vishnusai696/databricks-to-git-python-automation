@@ -1,0 +1,1 @@
+CREATE VIEW IF NOT EXISTS `analytics.vw_user_metrics` AS SELECT * FROM analytics.user_metrics
